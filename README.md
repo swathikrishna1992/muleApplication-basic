@@ -1,3 +1,3 @@
-Basic Mule Application
+# Basic Mule Application
 
 http listener,logger
